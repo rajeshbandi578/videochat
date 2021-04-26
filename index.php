@@ -1,9 +1,0 @@
-<?php
-include_once("server.js");
-include_once("App.js");
-include_once("App.test.js");
-include_once("App.css");
-include_once("index.css");
-include_once("index.js");
-include_once("index.heml");
-?>
